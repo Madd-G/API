@@ -1,0 +1,7 @@
+body {
+  background-color: #ffffff;
+}
+
+.jumbotron {
+  background: url('../images/store.jpg') no-repeat top center fixed;
+}
